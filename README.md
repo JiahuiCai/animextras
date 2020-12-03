@@ -1,3 +1,5 @@
+This is a fork from iBrushC/animextras, for learning purposes
+
 ## **AnimExtras**
 *AnimExtras is an addon for Blender that adds certain ease-of-use tools for animators*
 
